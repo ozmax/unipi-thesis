@@ -127,4 +127,9 @@ To carbon περιμένει μετρήσεις με plaintext format στην �
 λειτουργία και στην συνέχεια να του στείλουμε τα μηνύματα μέσω plaintext
 protocol
 
+legend
+metric path: το namespace που έχουμε ορίσει στον server και θέλουμε να κάνουμε populate
+metric value: η μέτρηση με την οποία θέλουμε να κάνουμε populate το namespace την συγκεκριμένη χρονική στιγμή
+timestamp: είναι σε μορφή Unix epoch time
+
 
