@@ -2,7 +2,7 @@
 /\                 \  
 \_|    Metrics     |  
   |       For      |  
-  |    Measurment  |  
+  |    Monitoring  |  
   |  ______________|_ 
   \_/_______________/
  
