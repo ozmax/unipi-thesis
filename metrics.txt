@@ -13,7 +13,7 @@
 |-> new registrations
 |-> votes casted totally/per election
 |-> user time in booth
-|-> 
+|-> average decryption time
 
 
 ===================
