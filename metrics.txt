@@ -1,0 +1,40 @@
+ __________________
+/\                 \  
+\_|    Metrics     |  
+  |       For      |  
+  |    Measurment  |  
+  |  ______________|_ 
+  \_/_______________/
+ 
++----------------+
+|application data|
++----------------+
+|
+|-> new registrations
+|-> votes casted totally/per election
+|-> user time in booth
+|-> 
+
+
+===================
+
+
++-----------------+
+|nginx/apache logs|
++-----------------+
+|
+|-> HTTP response codes (2xx, 4xx, 5xx)
+|-> requests per (second/minute/hour?)
+|-> ART(average response time) 
+|-> uptime
+
+
+===================
+
+
++-----------+
+|Mail Server|
++-----------+
+|
+|=> Mails Sent/Delivered/Bounced
+|=>
